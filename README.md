@@ -159,3 +159,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 - Thanks to all contributors who have helped improve this tool
 - Special thanks to the open source community for their invaluable resources
+
+---
+
+Created by [StackUss](https://www.stackuss.com) - Your trusted partner in high-tech transformation.
